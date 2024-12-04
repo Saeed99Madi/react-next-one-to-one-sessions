@@ -4,12 +4,13 @@
 
 In this session, I will provide resources to help you with the following topics:
 
-1. JavaScript Basics
-2. React Basics
-3. Class Components vs Functional Components
-4. Next.js 14 and App Folder Structure
-5. Soft Skills for Teams
-6. Vite (Build Tool for Fast Development)
+1. **JavaScript Basics**
+2. **CSS Topics**
+3. React Basics
+4. Class Components vs Functional Components
+5. **Next.js 14 and App Folder Structure**
+6. **Soft Skills for Teams**
+7. Vite (Build Tool for Fast Development)
 
 ---
 
@@ -36,7 +37,11 @@ Understanding JavaScript is essential for building React applications. The follo
 
 ---
 
-## 2. React Basics
+## 2. [CSS Topics](./css-topics.md)
+
+---
+
+## 3. React Basics
 
 To strengthen your understanding of React, I recommend starting with the following resources:
 
@@ -49,19 +54,19 @@ To strengthen your understanding of React, I recommend starting with the followi
 
 ---
 
-## 3. [Class Components vs Functional Components](./class-vs-functional.md)
+## 4. [Class Components vs Functional Components](./class-vs-functional.md)
 
 ---
 
-## 4. [Next.js 14 and App Folder Structure](./nextjs.md)
+## 5. [Next.js 14 and App Folder Structure](./nextjs.md)
 
 ---
 
-## 5. [Soft Skills for Teams](./softskills.md)
+## 6. [Soft Skills for Teams](./softskills.md)
 
 ---
 
-## 6. [Vite (Build Tool for Fast Development)](./runbuild.md)
+## 7. [Vite (Build Tool for Fast Development)](./runbuild.md)
 
 ---
 
