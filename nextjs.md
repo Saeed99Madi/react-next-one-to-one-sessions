@@ -1,3 +1,20 @@
+## Why Next.js
+
+Next.js is a powerful framework built on top of React, offering features that make it ideal for building production-ready web applications. It combines the flexibility of React with the added benefits of server-side rendering (SSR), static site generation (SSG), and incremental static regeneration (ISR), making it a versatile choice for developers.
+
+### **Server-Side Rendering (SSR) & Static Site Generation (SSG)**
+
+One of the standout features of Next.js is its ability to handle both **Server-Side Rendering (SSR)** and **Static Site Generation (SSG)** with ease. SSR allows pages to be pre-rendered on the server, providing faster page loads and improved SEO since the content is available immediately when the page is accessed. On the other hand, SSG pre-renders pages at build time, allowing for optimal performance with static content. Both methods can be used in conjunction to build applications that are both fast and SEO-friendly.
+
+Other notable features of Next.js include:
+
+- **File-based Routing**
+- **Automatic Code Splitting**
+- **Optimized Performance**
+- **API Routes**
+
+---
+
 Next.js is a framework that builds on top of React. If you're focusing on Next.js 14, it's important to understand the new features, including the app folder structure:
 
 - [**Next.js Docs**](https://nextjs.org/docs)  
