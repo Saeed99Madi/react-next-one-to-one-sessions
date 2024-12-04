@@ -4,26 +4,16 @@
 
 In this session, I will provide resources to help you with the following topics:
 
-1. React Basics
-2. JavaScript Basics
+1. JavaScript Basics
+2. React Basics
 3. Class Components vs Functional Components
 4. Next.js 14 and App Folder Structure
 5. Soft Skills for Teams
+6. Vite (Build Tool for Fast Development)
 
 ---
 
-## 1. React Basics
-
-To strengthen your understanding of React, I recommend starting with the following resources:
-
-- [**Official React Docs - Main Concepts**](https://reactjs.org/docs/getting-started.html)  
-  This will guide you through the core concepts like JSX, props, state, and components.
-- [**React for Beginners by Wes Bos**](https://reactforbeginners.com/)  
-  A free course that focuses on React fundamentals and is great for a hands-on approach.
-
----
-
-## 2. JavaScript Basics
+## 1. JavaScript Basics
 
 Key areas to focus on for JavaScript:
 
@@ -38,6 +28,24 @@ Understanding JavaScript is essential for building React applications. The follo
   A comprehensive guide on JavaScript, starting from the basics to more advanced topics.
 - [**JavaScript.info**](https://javascript.info/)  
   This interactive guide covers all fundamental JavaScript concepts in depth.
+
+### Practice Platforms
+
+- **[LeetCode](https://leetcode.com/)**: LeetCode offers a vast collection of coding challenges that help improve problem-solving skills. It’s a great platform to practice your JavaScript knowledge and prepare for technical interviews. You can find problems ranging from beginner to advanced, focusing on algorithms, data structures, and more.
+- **[Codewars](https://www.codewars.com/)**: Codewars is a community-driven platform where developers can practice coding challenges (called "kata") to improve their skills. With problems of varying difficulty, Codewars offers a fun and engaging way to strengthen your JavaScript understanding through real-world coding problems.
+
+---
+
+## 2. React Basics
+
+To strengthen your understanding of React, I recommend starting with the following resources:
+
+- [**React Complete Guide**](https://medium.com/@Pratik_Mane_9/how-react-work-behind-the-scene-6d00f6c1e88a)
+- [**How React Work**](https://medium.com/@Pratik_Mane_9/how-react-work-behind-the-scene-6d00f6c1e88a)
+- [**Official React Docs - Main Concepts**](https://reactjs.org/docs/getting-started.html)  
+  This will guide you through the core concepts like JSX, props, state, and components.
+- [**React for Beginners by Wes Bos**](https://reactforbeginners.com/)  
+  A free course that focuses on React fundamentals and is great for a hands-on approach.
 
 ---
 
