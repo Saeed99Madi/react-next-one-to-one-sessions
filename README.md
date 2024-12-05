@@ -6,7 +6,7 @@ In this session, I will provide resources to help you with the following topics:
 
 1. **JavaScript Basics**
 2. **CSS Topics**
-3. React Basics
+3. **React Basics**
 4. Class Components vs Functional Components
 5. **Next.js 14 and App Folder Structure**
 6. **Soft Skills for Teams**
